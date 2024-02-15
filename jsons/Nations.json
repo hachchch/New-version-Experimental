@@ -3,7 +3,7 @@
                 "name": "Babylon",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
-		"startBias": ["Avoid [Tundra]"],
+		// "startBias": ["Avoid [Tundra]"], Checking mod is working or not
 		"preferredVictoryType": "Scientific",
                 "personality": {"WarMongering": 1000, "Military": 1000},
 
