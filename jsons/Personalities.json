@@ -8,6 +8,6 @@
         },
         {
                 "name": "Test",
-                "uniques": ["[+2000]% [Gold] [in all cities]"]
+                "uniques": ["Will not build [Civilian]"]
         }
 ]
