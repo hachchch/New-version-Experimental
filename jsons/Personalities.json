@@ -1,0 +1,9 @@
+[
+        {
+                "name": "Paranoia",
+                "preferredVictoryType": "Domination",
+                "faith": 6,
+                "military": 10,
+                "uniques": ["[+33]% City-State Influence degradation"]
+        }
+]
