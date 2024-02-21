@@ -1,0 +1,8 @@
+[
+        {
+                "name": "Civilian Water",
+                "movementType": "Water",
+                "uniques": ["Turn this tile into a [Plains] tile <after adopting [Atlantropa]> <by consuming this unit> <in [Coast] tiles>",
+                "Turn this tile into a [Coast] tile <after adopting [Atlantropa]> <by consuming this unit> <in [Ocean] tiles>"]
+        }
+]
