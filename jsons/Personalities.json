@@ -5,5 +5,10 @@
                 "faith": 6,
                 "military": 10,
                 "uniques": ["[+33]% City-State Influence degradation"]
+        },
+        {
+                "name": "Test",
+                "preferredVictoryType": "Domination",
+                "uniques": ["[+2000]% [Gold]"]
         }
 ]
